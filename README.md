@@ -101,21 +101,6 @@ Built an interactive dashboard featuring:
 * California and New York were the most profitable states.
 * Texas generated the highest overall loss.
 
-## Dashboard Preview
-
-Add screenshots of your Power BI dashboard here.
-
-### Executive Overview
-
-![Dashboard Screenshot](screenshots/dashboard1.png)
-
-### Product Analysis
-
-![Dashboard Screenshot](screenshots/dashboard2.png)
-
-### Customer Insights
-
-![Dashboard Screenshot](screenshots/dashboard3.png)
 
 ## Repository Structure
 
@@ -140,11 +125,6 @@ Sales-Performance-Dashboard/
 └── README.md
 ```
 
-## Future Improvements
 
-* Sales forecasting using machine learning
-* Customer lifetime value analysis
-* Automated reporting pipeline
-* Real-time dashboard integration
 
 
