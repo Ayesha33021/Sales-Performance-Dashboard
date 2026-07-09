@@ -54,22 +54,6 @@ The project uses the Sample Superstore dataset containing:
 * Customer segmentation analysis
 * Monthly sales trend analysis
 
-### 3. SQL Analysis
-
-* Aggregated sales and profit metrics
-* Analyzed regional and product performance
-* Generated customer-level insights
-
-### 4. Power BI Dashboard
-
-Built an interactive dashboard featuring:
-
-* Revenue KPIs
-* Profit KPIs
-* Customer Insights
-* Product Performance Analysis
-* Geographic Sales Analysis
-* Trend Analysis
 
 ## Key Insights
 
@@ -82,6 +66,7 @@ Built an interactive dashboard featuring:
 ### Top Category
 
 * Technology generated the highest revenue ($836K).
+
 
 ### Best Performing Region
 
@@ -113,12 +98,6 @@ Sales-Performance-Dashboard/
 │
 ├── notebooks/
 │   └── sales_analysis.ipynb
-│
-├── sql/
-│   └── sales_queries.sql
-│
-├── dashboard/
-│   └── SalesDashboard.pbix
 │
 ├── screenshots/
 │
